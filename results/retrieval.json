@@ -1,0 +1,222 @@
+{
+  "clap_model": "laion/clap-htsat-unfused",
+  "top_k": 3,
+  "retrieval": [
+    {
+      "id": "t00",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r019",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+          "clap_audio_cosine": 0.8722245693206787
+        },
+        {
+          "rank": 2,
+          "reference_id": "r030",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/80_dance-breakbeat_170_beat_4-4.wav",
+          "clap_audio_cosine": 0.8602993488311768
+        },
+        {
+          "rank": 3,
+          "reference_id": "r022",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/4_jazz-funk_116_beat_4-4.wav",
+          "clap_audio_cosine": 0.853897750377655
+        }
+      ]
+    },
+    {
+      "id": "t01",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r019",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+          "clap_audio_cosine": 0.9299545288085938
+        },
+        {
+          "rank": 2,
+          "reference_id": "r002",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/146_latin-brazilian-baiao_95_beat_4-4.wav",
+          "clap_audio_cosine": 0.900538444519043
+        },
+        {
+          "rank": 3,
+          "reference_id": "r010",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/1_funk_80_beat_4-4.wav",
+          "clap_audio_cosine": 0.8999509811401367
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r019",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+          "clap_audio_cosine": 0.9357341527938843
+        },
+        {
+          "rank": 2,
+          "reference_id": "r021",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/3_funk_80_beat_4-4.wav",
+          "clap_audio_cosine": 0.9310114979743958
+        },
+        {
+          "rank": 3,
+          "reference_id": "r002",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/146_latin-brazilian-baiao_95_beat_4-4.wav",
+          "clap_audio_cosine": 0.9306082725524902
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r081",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3",
+          "clap_audio_cosine": 0.881803572177887
+        },
+        {
+          "rank": 2,
+          "reference_id": "r078",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/愁空山  第1樂章  賴苡鈞演奏  陳志昇指揮（交響）.mp3",
+          "clap_audio_cosine": 0.8815189003944397
+        },
+        {
+          "rank": 3,
+          "reference_id": "r070",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3",
+          "clap_audio_cosine": 0.861078143119812
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r064",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+          "clap_audio_cosine": 0.7897205352783203
+        },
+        {
+          "rank": 2,
+          "reference_id": "r067",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_03_Track03_wav.wav",
+          "clap_audio_cosine": 0.7732042074203491
+        },
+        {
+          "rank": 3,
+          "reference_id": "r065",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_01_Track01_wav.wav",
+          "clap_audio_cosine": 0.7661103010177612
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r064",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+          "clap_audio_cosine": 0.758817195892334
+        },
+        {
+          "rank": 2,
+          "reference_id": "r043",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_04_Track04_wav.wav",
+          "clap_audio_cosine": 0.7463630437850952
+        },
+        {
+          "rank": 3,
+          "reference_id": "r045",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_12_Track12_wav.wav",
+          "clap_audio_cosine": 0.7434552907943726
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r090",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽明春曉  巫致廷演奏  陳志昇指揮.mp3",
+          "clap_audio_cosine": 0.7664999961853027
+        },
+        {
+          "rank": 2,
+          "reference_id": "r070",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3",
+          "clap_audio_cosine": 0.6876804828643799
+        },
+        {
+          "rank": 3,
+          "reference_id": "r075",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+          "clap_audio_cosine": 0.6580793261528015
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r075",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+          "clap_audio_cosine": 0.7507308721542358
+        },
+        {
+          "rank": 2,
+          "reference_id": "r070",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3",
+          "clap_audio_cosine": 0.7329387068748474
+        },
+        {
+          "rank": 3,
+          "reference_id": "r090",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽明春曉  巫致廷演奏  陳志昇指揮.mp3",
+          "clap_audio_cosine": 0.7281554937362671
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "matches": [
+        {
+          "rank": 1,
+          "reference_id": "r070",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3",
+          "clap_audio_cosine": 0.9118238091468811
+        },
+        {
+          "rank": 2,
+          "reference_id": "r083",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/歡騰的延河.mp3",
+          "clap_audio_cosine": 0.7929558753967285
+        },
+        {
+          "rank": 3,
+          "reference_id": "r081",
+          "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3",
+          "clap_audio_cosine": 0.7668768167495728
+        }
+      ]
+    }
+  ]
+}

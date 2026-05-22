@@ -1,0 +1,9 @@
+Deep_MIR_hw2.zip
+home/
+third_party/
+logs/
+generated_audio/
+__pycache__/
+*.pyc
+*.pt
+*.safetensors

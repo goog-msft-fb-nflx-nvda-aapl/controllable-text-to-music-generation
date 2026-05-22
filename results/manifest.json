@@ -1,0 +1,417 @@
+{
+  "dataset_dir": "home/fundwotsai/Deep_MIR_hw2",
+  "target_count": 9,
+  "reference_count": 93,
+  "targets": [
+    {
+      "id": "t00",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav"
+    },
+    {
+      "id": "t01",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav"
+    },
+    {
+      "id": "t02",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav"
+    },
+    {
+      "id": "t03",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3"
+    },
+    {
+      "id": "t04",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3"
+    },
+    {
+      "id": "t05",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3"
+    },
+    {
+      "id": "t06",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3"
+    },
+    {
+      "id": "t07",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3"
+    },
+    {
+      "id": "t08",
+      "path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3"
+    }
+  ],
+  "references": [
+    {
+      "id": "r000",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/04 聽泉.mp3"
+    },
+    {
+      "id": "r001",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/145_latin-brazilian-baiao_95_beat_4-4.wav"
+    },
+    {
+      "id": "r002",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/146_latin-brazilian-baiao_95_beat_4-4.wav"
+    },
+    {
+      "id": "r003",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/147_latin-brazilian-baiao_95_fill_4-4.wav"
+    },
+    {
+      "id": "r004",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/176_afrocuban_105_beat_4-4.wav"
+    },
+    {
+      "id": "r005",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/177_afrocuban_105_fill_4-4.wav"
+    },
+    {
+      "id": "r006",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/178_afrocuban_105_fill_4-4.wav"
+    },
+    {
+      "id": "r007",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/184_reggae_78_beat_4-4.wav"
+    },
+    {
+      "id": "r008",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/185_reggae_78_fill_4-4.wav"
+    },
+    {
+      "id": "r009",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/186_reggae_78_fill_4-4.wav"
+    },
+    {
+      "id": "r010",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/1_funk_80_beat_4-4.wav"
+    },
+    {
+      "id": "r011",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/202_rock-halftime_140_beat_4-4.wav"
+    },
+    {
+      "id": "r012",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/203_rock-halftime_140_fill_4-4.wav"
+    },
+    {
+      "id": "r013",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/204_rock-halftime_140_fill_4-4.wav"
+    },
+    {
+      "id": "r014",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/239_funk-purdieshuffle_130_beat_4-4.wav"
+    },
+    {
+      "id": "r015",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/240_funk-purdieshuffle_130_fill_4-4.wav"
+    },
+    {
+      "id": "r016",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/241_funk-purdieshuffle_130_fill_4-4.wav"
+    },
+    {
+      "id": "r017",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/28_latin-samba_116_beat_4-4.wav"
+    },
+    {
+      "id": "r018",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/29_latin-samba_116_fill_4-4.wav"
+    },
+    {
+      "id": "r019",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav"
+    },
+    {
+      "id": "r020",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/30_latin-samba_116_fill_4-4.wav"
+    },
+    {
+      "id": "r021",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/3_funk_80_beat_4-4.wav"
+    },
+    {
+      "id": "r022",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/4_jazz-funk_116_beat_4-4.wav"
+    },
+    {
+      "id": "r023",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/51_rock-shuffle_125_beat_4-4.wav"
+    },
+    {
+      "id": "r024",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/5_jazz-funk_116_beat_4-4.wav"
+    },
+    {
+      "id": "r025",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/6_jazz-funk_116_fill_4-4.wav"
+    },
+    {
+      "id": "r026",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/76_jazz-mediumfast_180_beat_4-4.wav"
+    },
+    {
+      "id": "r027",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/77_jazz-mediumfast_180_beat_4-4.wav"
+    },
+    {
+      "id": "r028",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/78_jazz-fast_290_beat_4-4.wav"
+    },
+    {
+      "id": "r029",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/79_latin-reggaeton_90_beat_4-4.wav"
+    },
+    {
+      "id": "r030",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/80_dance-breakbeat_170_beat_4-4.wav"
+    },
+    {
+      "id": "r031",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/81_dance-breakbeat_170_beat_4-4.wav"
+    },
+    {
+      "id": "r032",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/82_neworleans-funk_84_beat_4-4.wav"
+    },
+    {
+      "id": "r033",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/83_neworleans-funk_84_fill_4-4.wav"
+    },
+    {
+      "id": "r034",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/84_neworleans-funk_84_fill_4-4.wav"
+    },
+    {
+      "id": "r035",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_05_Track05_wav.wav"
+    },
+    {
+      "id": "r036",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav.wav"
+    },
+    {
+      "id": "r037",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_08_Track08_wav.wav"
+    },
+    {
+      "id": "r038",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_10_Track10_wav.wav"
+    },
+    {
+      "id": "r039",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_05_R1_2004_01_ORIG_MID--AUDIO_05_R1_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r040",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_05_R1_2004_01_ORIG_MID--AUDIO_05_R1_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r041",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_05_R1_2004_02-03_ORIG_MID--AUDIO_05_R1_2004_06_Track06_wav.wav"
+    },
+    {
+      "id": "r042",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r043",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_04_Track04_wav.wav"
+    },
+    {
+      "id": "r044",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_06_Track06_wav.wav"
+    },
+    {
+      "id": "r045",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_07_R1_2004_01_ORIG_MID--AUDIO_07_R1_2004_12_Track12_wav.wav"
+    },
+    {
+      "id": "r046",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1.wav"
+    },
+    {
+      "id": "r047",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_07_Track07_wav.wav"
+    },
+    {
+      "id": "r048",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav"
+    },
+    {
+      "id": "r049",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_09_Track09_wav.wav"
+    },
+    {
+      "id": "r050",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_01-02_ORIG_MID--AUDIO_18_R1_2004_05_Track05_wav.wav"
+    },
+    {
+      "id": "r051",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_18_R1_2004_04_ORIG_MID--AUDIO_18_R1_2004_07_Track07_wav.wav"
+    },
+    {
+      "id": "r052",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav.wav"
+    },
+    {
+      "id": "r053",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r054",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r055",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R2_2004_01_ORIG_MID--AUDIO_19_R2_2004_01_Track01_wav.wav"
+    },
+    {
+      "id": "r056",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R2_2004_01_ORIG_MID--AUDIO_19_R2_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r057",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_19_R2_2004_01_ORIG_MID--AUDIO_19_R2_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r058",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_01_Track01_wav.wav"
+    },
+    {
+      "id": "r059",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r060",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r061",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_01_ORIG_MID--AUDIO_21_R1_2004_01_Track01_wav.wav"
+    },
+    {
+      "id": "r062",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_02_ORIG_MID--AUDIO_21_R1_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r063",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_02_ORIG_MID--AUDIO_21_R1_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r064",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav"
+    },
+    {
+      "id": "r065",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_01_Track01_wav.wav"
+    },
+    {
+      "id": "r066",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_02_Track02_wav.wav"
+    },
+    {
+      "id": "r067",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_03_Track03_wav.wav"
+    },
+    {
+      "id": "r068",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_22_R2_2004_01_ORIG_MID--AUDIO_22_R2_2004_04_Track04_wav.wav"
+    },
+    {
+      "id": "r069",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/俞遜發 - Track 4.mp3"
+    },
+    {
+      "id": "r070",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3"
+    },
+    {
+      "id": "r071",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/天山笛聲.mp3"
+    },
+    {
+      "id": "r072",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/安童哥買菜.MP3"
+    },
+    {
+      "id": "r073",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂I  繆儀琳、小巨人團演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r074",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂II  繆儀琳、小巨人團演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r075",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r076",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂IV  繆儀琳、小巨人團演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r077",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/幽蘭逢春.mp3"
+    },
+    {
+      "id": "r078",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/愁空山  第1樂章  賴苡鈞演奏  陳志昇指揮（交響）.mp3"
+    },
+    {
+      "id": "r079",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/愁空山  第2樂章  賴苡鈞演奏  陳志昇指揮（交響）.mp3"
+    },
+    {
+      "id": "r080",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/愁空山  第3樂章  賴苡鈞演奏  陳志昇指揮（交響）.mp3"
+    },
+    {
+      "id": "r081",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3"
+    },
+    {
+      "id": "r082",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/旋舞女（竹笛：侯廣宇）.mp3"
+    },
+    {
+      "id": "r083",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/歡騰的延河.mp3"
+    },
+    {
+      "id": "r084",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/漁舟唱晚 (笛).mp3"
+    },
+    {
+      "id": "r085",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/燕子.mp3"
+    },
+    {
+      "id": "r086",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/蒼  吳雅慧演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r087",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/蔭中鳥.mp3"
+    },
+    {
+      "id": "r088",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/鄉歌.mp3"
+    },
+    {
+      "id": "r089",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽光照耀著帕米爾.mp3"
+    },
+    {
+      "id": "r090",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽明春曉  巫致廷演奏  陳志昇指揮.mp3"
+    },
+    {
+      "id": "r091",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/雲南山歌.mp3"
+    },
+    {
+      "id": "r092",
+      "path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/黃土情.mp3"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "clap_model": "laion/clap-htsat-unfused",
+  "retrieval": [
+    {
+      "id": "t00",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav",
+      "reference_id": "r019",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+      "clap_audio_cosine": 0.8722245693206787,
+      "melody_accuracy": 0.07294891640866873,
+      "audiobox_aesthetics": {
+        "CE": 6.813462734222412,
+        "CU": 8.019885063171387,
+        "PC": 3.1502323150634766,
+        "PQ": 7.806240558624268
+      }
+    },
+    {
+      "id": "t01",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav",
+      "reference_id": "r019",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+      "clap_audio_cosine": 0.9299545288085938,
+      "melody_accuracy": 0.13409442724458204,
+      "audiobox_aesthetics": {
+        "CE": 6.813462734222412,
+        "CU": 8.019885063171387,
+        "PC": 3.1502323150634766,
+        "PQ": 7.806240558624268
+      }
+    },
+    {
+      "id": "t02",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav",
+      "reference_id": "r019",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/2_funk_80_beat_4-4.wav",
+      "clap_audio_cosine": 0.9357341527938843,
+      "melody_accuracy": 0.09936145510835913,
+      "audiobox_aesthetics": {
+        "CE": 6.813462734222412,
+        "CU": 8.019885063171387,
+        "PC": 3.1502323150634766,
+        "PQ": 7.806240558624268
+      }
+    },
+    {
+      "id": "t03",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "reference_id": "r081",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/收割.mp3",
+      "clap_audio_cosine": 0.881803572177887,
+      "melody_accuracy": 0.1250967492260062,
+      "audiobox_aesthetics": {
+        "CE": 7.067859172821045,
+        "CU": 7.238460540771484,
+        "PC": 5.567218780517578,
+        "PQ": 7.247300624847412
+      }
+    },
+    {
+      "id": "t04",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "reference_id": "r064",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+      "clap_audio_cosine": 0.7897205352783203,
+      "melody_accuracy": 0.16960139318885448,
+      "audiobox_aesthetics": {
+        "CE": 7.33709192276001,
+        "CU": 7.781009674072266,
+        "PC": 2.7809932231903076,
+        "PQ": 7.553160190582275
+      }
+    },
+    {
+      "id": "t05",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "reference_id": "r064",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+      "clap_audio_cosine": 0.758817195892334,
+      "melody_accuracy": 0.11368034055727554,
+      "audiobox_aesthetics": {
+        "CE": 7.33709192276001,
+        "CU": 7.781009674072266,
+        "PC": 2.7809932231903076,
+        "PQ": 7.553160190582275
+      }
+    },
+    {
+      "id": "t06",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "reference_id": "r090",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/陽明春曉  巫致廷演奏  陳志昇指揮.mp3",
+      "clap_audio_cosine": 0.7664999961853027,
+      "melody_accuracy": 0.0708204334365325,
+      "audiobox_aesthetics": {
+        "CE": 7.278594970703125,
+        "CU": 7.047685146331787,
+        "PC": 4.447612762451172,
+        "PQ": 7.616042613983154
+      }
+    },
+    {
+      "id": "t07",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "reference_id": "r075",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/山樂III  繆儀琳、小巨人團演奏  陳志昇指揮.mp3",
+      "clap_audio_cosine": 0.7507308721542358,
+      "melody_accuracy": 0.16273219814241485,
+      "audiobox_aesthetics": {
+        "CE": 7.023794651031494,
+        "CU": 7.601573467254639,
+        "PC": 4.387287616729736,
+        "PQ": 7.8258490562438965
+      }
+    },
+    {
+      "id": "t08",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "reference_id": "r070",
+      "reference_path": "home/fundwotsai/Deep_MIR_hw2/referecne_music_list_60s/元若藍-愛X無限大-03.綠柚子.mp3",
+      "clap_audio_cosine": 0.9118238091468811,
+      "melody_accuracy": 0.02225232198142415,
+      "audiobox_aesthetics": {
+        "CE": 7.609367370605469,
+        "CU": 7.858795642852783,
+        "PC": 6.202810764312744,
+        "PQ": 8.258052825927734
+      }
+    }
+  ],
+  "generation": [
+    {
+      "id": "t00",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav",
+      "generated_path": "generated_audio/stable_text/t00.wav",
+      "caption": "A drum beat with a snare roll and kick pattern in A major key at a tempo of 105.3 BPM featuring an upbeat, driving mood. Instrument is acoustic drums, and the recording quality is described as low, featuring a mono sound.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.5499404072761536,
+      "clap_text_generated": 0.5549464225769043,
+      "clap_generated_target": 0.5124893188476562,
+      "melody_accuracy": 0.07970218479189552,
+      "audiobox_aesthetics": {
+        "CE": 5.3425445556640625,
+        "CU": 7.014968395233154,
+        "PC": 2.9255738258361816,
+        "PQ": 6.72586727142334
+      }
+    },
+    {
+      "id": "t00",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg1/t00.wav",
+      "caption": "A drum beat with a snare roll and kick pattern in A major key at a tempo of 105.3 BPM featuring an upbeat, driving mood. Instrument is acoustic drums, and the recording quality is described as low, featuring a mono sound.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5595920085906982,
+      "clap_text_generated": 0.5320913791656494,
+      "clap_generated_target": 0.7223010063171387,
+      "melody_accuracy": 0.11509825460759185,
+      "audiobox_aesthetics": {
+        "CE": 6.031712532043457,
+        "CU": 7.460562229156494,
+        "PC": 3.7289021015167236,
+        "PQ": 6.586953163146973
+      }
+    },
+    {
+      "id": "t00",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/10_country_114_beat_4-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg15/t00.wav",
+      "caption": "A drum beat with a snare roll and kick pattern in A major key at a tempo of 105.3 BPM featuring an upbeat, driving mood. Instrument is acoustic drums, and the recording quality is described as low, featuring a mono sound.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5354518294334412,
+      "clap_text_generated": 0.5184938311576843,
+      "clap_generated_target": 0.6941291093826294,
+      "melody_accuracy": 0.14487977541803979,
+      "audiobox_aesthetics": {
+        "CE": 6.555169105529785,
+        "CU": 7.910796642303467,
+        "PC": 4.186974048614502,
+        "PQ": 7.659355163574219
+      }
+    },
+    {
+      "id": "t01",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav",
+      "generated_path": "generated_audio/stable_text/t01.wav",
+      "caption": "A drum track with a jazzy beat featuring a complex progression of chords including A# major, C minor, and G# major, in F# minor key with a 4/4 time signature at a tempo of 89.6 bpm.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.5558779835700989,
+      "clap_text_generated": 0.5264009237289429,
+      "clap_generated_target": 0.3332371115684509,
+      "melody_accuracy": 0.053948492615647506,
+      "audiobox_aesthetics": {
+        "CE": 7.40964412689209,
+        "CU": 8.129915237426758,
+        "PC": 5.1235246658325195,
+        "PQ": 8.002413749694824
+      }
+    },
+    {
+      "id": "t01",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg1/t01.wav",
+      "caption": "A drum track with a jazzy beat featuring a complex progression of chords including A# major, C minor, and G# major, in F# minor key with a 4/4 time signature at a tempo of 89.6 bpm.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5558246374130249,
+      "clap_text_generated": 0.5570042133331299,
+      "clap_generated_target": 0.7054550647735596,
+      "melody_accuracy": 0.5400952032222629,
+      "audiobox_aesthetics": {
+        "CE": 6.384695053100586,
+        "CU": 7.112100601196289,
+        "PC": 4.80359411239624,
+        "PQ": 6.844131946563721
+      }
+    },
+    {
+      "id": "t01",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/4_jazz_120_beat_3-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg15/t01.wav",
+      "caption": "A drum track with a jazzy beat featuring a complex progression of chords including A# major, C minor, and G# major, in F# minor key with a 4/4 time signature at a tempo of 89.6 bpm.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.46867913007736206,
+      "clap_text_generated": 0.5551944971084595,
+      "clap_generated_target": 0.6821119785308838,
+      "melody_accuracy": 0.5100695715854998,
+      "audiobox_aesthetics": {
+        "CE": 6.409428119659424,
+        "CU": 7.415180683135986,
+        "PC": 4.70612096786499,
+        "PQ": 7.107856750488281
+      }
+    },
+    {
+      "id": "t02",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav",
+      "generated_path": "generated_audio/stable_text/t02.wav",
+      "caption": "A rock beat with a unique drum pattern featuring snare, toms, hi-hats, and crash cymbal. The genre is rock, the key is A minor, the time signature is 4/4, and the tempo is 105.3 bpm. The mood of the recording is cool, and it has a stereo image that's unbalanced, leaning towards the left side.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.629281759262085,
+      "clap_text_generated": 0.6002305746078491,
+      "clap_generated_target": 0.782856285572052,
+      "melody_accuracy": 0.062248260710362505,
+      "audiobox_aesthetics": {
+        "CE": 5.910804748535156,
+        "CU": 7.604393005371094,
+        "PC": 2.5590648651123047,
+        "PQ": 7.487104415893555
+      }
+    },
+    {
+      "id": "t02",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg1/t02.wav",
+      "caption": "A rock beat with a unique drum pattern featuring snare, toms, hi-hats, and crash cymbal. The genre is rock, the key is A minor, the time signature is 4/4, and the tempo is 105.3 bpm. The mood of the recording is cool, and it has a stereo image that's unbalanced, leaning towards the left side.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.6225282549858093,
+      "clap_text_generated": 0.6269679069519043,
+      "clap_generated_target": 0.828449547290802,
+      "melody_accuracy": 0.10142804833394362,
+      "audiobox_aesthetics": {
+        "CE": 6.939128398895264,
+        "CU": 7.9792799949646,
+        "PC": 4.313818454742432,
+        "PQ": 7.51792573928833
+      }
+    },
+    {
+      "id": "t02",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/6_rock_102_beat_3-4.wav",
+      "generated_path": "generated_audio/muse_melody_cfg15/t02.wav",
+      "caption": "A rock beat with a unique drum pattern featuring snare, toms, hi-hats, and crash cymbal. The genre is rock, the key is A minor, the time signature is 4/4, and the tempo is 105.3 bpm. The mood of the recording is cool, and it has a stereo image that's unbalanced, leaning towards the left side.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.6344737410545349,
+      "clap_text_generated": 0.6088345646858215,
+      "clap_generated_target": 0.7362284660339355,
+      "melody_accuracy": 0.11399975588917369,
+      "audiobox_aesthetics": {
+        "CE": 6.716883182525635,
+        "CU": 8.002782821655273,
+        "PC": 4.18067741394043,
+        "PQ": 7.566408157348633
+      }
+    },
+    {
+      "id": "t03",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "generated_path": "generated_audio/stable_text/t03.wav",
+      "caption": "A solo flute piece in E minor with a tempo of 93.8 BPM, featuring a quiet, melodic melody with a shift to G major before returning to E minor, creating a somber mood with a recorded quality that is quiet and dull.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.5882232785224915,
+      "clap_text_generated": 0.6013448238372803,
+      "clap_generated_target": 0.665839672088623,
+      "melody_accuracy": 0.14182839008910045,
+      "audiobox_aesthetics": {
+        "CE": 6.663599491119385,
+        "CU": 7.927926063537598,
+        "PC": 2.1078872680664062,
+        "PQ": 7.327409267425537
+      }
+    },
+    {
+      "id": "t03",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t03.wav",
+      "caption": "A solo flute piece in E minor with a tempo of 93.8 BPM, featuring a quiet, melodic melody with a shift to G major before returning to E minor, creating a somber mood with a recorded quality that is quiet and dull.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5737133026123047,
+      "clap_text_generated": 0.579632043838501,
+      "clap_generated_target": 0.6976109147071838,
+      "melody_accuracy": 0.0917856706944953,
+      "audiobox_aesthetics": {
+        "CE": 7.175469875335693,
+        "CU": 7.930258274078369,
+        "PC": 3.5044291019439697,
+        "PQ": 7.438859462738037
+      }
+    },
+    {
+      "id": "t03",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t03.wav",
+      "caption": "A solo flute piece in E minor with a tempo of 93.8 BPM, featuring a quiet, melodic melody with a shift to G major before returning to E minor, creating a somber mood with a recorded quality that is quiet and dull.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.6790986657142639,
+      "clap_text_generated": 0.6070593595504761,
+      "clap_generated_target": 0.7965340614318848,
+      "melody_accuracy": 0.09422677895764678,
+      "audiobox_aesthetics": {
+        "CE": 7.133255958557129,
+        "CU": 7.839854717254639,
+        "PC": 3.7504429817199707,
+        "PQ": 7.461901664733887
+      }
+    },
+    {
+      "id": "t04",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "generated_path": "generated_audio/stable_text/t04.wav",
+      "caption": "A classical piano piece in F major with a slow tempo of around 78 BPM features a soft, quiet melody with a rich chord progression and a feeling of resolution.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.4394492506980896,
+      "clap_text_generated": 0.6440962553024292,
+      "clap_generated_target": 0.6276456117630005,
+      "melody_accuracy": 0.1277920175759795,
+      "audiobox_aesthetics": {
+        "CE": 6.923742771148682,
+        "CU": 7.791604995727539,
+        "PC": 2.306441068649292,
+        "PQ": 7.933955669403076
+      }
+    },
+    {
+      "id": "t04",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t04.wav",
+      "caption": "A classical piano piece in F major with a slow tempo of around 78 BPM features a soft, quiet melody with a rich chord progression and a feeling of resolution.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.49752891063690186,
+      "clap_text_generated": 0.6460596323013306,
+      "clap_generated_target": 0.6910909414291382,
+      "melody_accuracy": 0.15147076772854876,
+      "audiobox_aesthetics": {
+        "CE": 7.730758190155029,
+        "CU": 8.042852401733398,
+        "PC": 2.847395420074463,
+        "PQ": 7.943542003631592
+      }
+    },
+    {
+      "id": "t04",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t04.wav",
+      "caption": "A classical piano piece in F major with a slow tempo of around 78 BPM features a soft, quiet melody with a rich chord progression and a feeling of resolution.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.4847952127456665,
+      "clap_text_generated": 0.5649404525756836,
+      "clap_generated_target": 0.6603903770446777,
+      "melody_accuracy": 0.15073843524960331,
+      "audiobox_aesthetics": {
+        "CE": 7.64613151550293,
+        "CU": 8.120141983032227,
+        "PC": 2.8055620193481445,
+        "PQ": 8.084080696105957
+      }
+    },
+    {
+      "id": "t05",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "generated_path": "generated_audio/stable_text/t05.wav",
+      "caption": "Melancholic instrumental piano piece with a nostalgic touch, reminiscent of early 20th century classical music, played in a major key at a moderate tempo, featuring a rich chord progression and a slow, flowing melody that evokes a sense of longing and introspection.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.575141429901123,
+      "clap_text_generated": 0.6406562328338623,
+      "clap_generated_target": 0.6218937635421753,
+      "melody_accuracy": 0.07115830587086537,
+      "audiobox_aesthetics": {
+        "CE": 7.511519432067871,
+        "CU": 8.025372505187988,
+        "PC": 2.861631155014038,
+        "PQ": 8.139692306518555
+      }
+    },
+    {
+      "id": "t05",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t05.wav",
+      "caption": "Melancholic instrumental piano piece with a nostalgic touch, reminiscent of early 20th century classical music, played in a major key at a moderate tempo, featuring a rich chord progression and a slow, flowing melody that evokes a sense of longing and introspection.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.6060645580291748,
+      "clap_text_generated": 0.6382132768630981,
+      "clap_generated_target": 0.7363241910934448,
+      "melody_accuracy": 0.19663127059685098,
+      "audiobox_aesthetics": {
+        "CE": 7.863602161407471,
+        "CU": 8.177602767944336,
+        "PC": 3.063290596008301,
+        "PQ": 8.251840591430664
+      }
+    },
+    {
+      "id": "t05",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t05.wav",
+      "caption": "Melancholic instrumental piano piece with a nostalgic touch, reminiscent of early 20th century classical music, played in a major key at a moderate tempo, featuring a rich chord progression and a slow, flowing melody that evokes a sense of longing and introspection.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5841430425643921,
+      "clap_text_generated": 0.6195170879364014,
+      "clap_generated_target": 0.7486611604690552,
+      "melody_accuracy": 0.1961430489442207,
+      "audiobox_aesthetics": {
+        "CE": 7.784655570983887,
+        "CU": 8.248842239379883,
+        "PC": 3.079253673553467,
+        "PQ": 8.306181907653809
+      }
+    },
+    {
+      "id": "t06",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "generated_path": "generated_audio/stable_text/t06.wav",
+      "caption": "An instrumental classical piece featuring piano with a lively tempo in G# minor key, 4/4 time signature, chord progression alternating between G# minor and C# major, conveying an uplifting yet melancholic mood through rich harmonic textures and dynamic changes.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.48744723200798035,
+      "clap_text_generated": 0.5499894618988037,
+      "clap_generated_target": 0.5700514316558838,
+      "melody_accuracy": 0.2172586354204809,
+      "audiobox_aesthetics": {
+        "CE": 7.501335144042969,
+        "CU": 7.910128593444824,
+        "PC": 2.873667001724243,
+        "PQ": 7.957515239715576
+      }
+    },
+    {
+      "id": "t06",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t06.wav",
+      "caption": "An instrumental classical piece featuring piano with a lively tempo in G# minor key, 4/4 time signature, chord progression alternating between G# minor and C# major, conveying an uplifting yet melancholic mood through rich harmonic textures and dynamic changes.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.48224955797195435,
+      "clap_text_generated": 0.45938748121261597,
+      "clap_generated_target": 0.5399848818778992,
+      "melody_accuracy": 0.2117661418283901,
+      "audiobox_aesthetics": {
+        "CE": 7.601457595825195,
+        "CU": 7.975719928741455,
+        "PC": 3.5610737800598145,
+        "PQ": 7.958206653594971
+      }
+    },
+    {
+      "id": "t06",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t06.wav",
+      "caption": "An instrumental classical piece featuring piano with a lively tempo in G# minor key, 4/4 time signature, chord progression alternating between G# minor and C# major, conveying an uplifting yet melancholic mood through rich harmonic textures and dynamic changes.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.4831227660179138,
+      "clap_text_generated": 0.40952426195144653,
+      "clap_generated_target": 0.6048696041107178,
+      "melody_accuracy": 0.20041498840473576,
+      "audiobox_aesthetics": {
+        "CE": 7.485742568969727,
+        "CU": 8.06801986694336,
+        "PC": 3.623993396759033,
+        "PQ": 8.132822036743164
+      }
+    },
+    {
+      "id": "t07",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "generated_path": "generated_audio/stable_text/t07.wav",
+      "caption": "A classical piece featuring piano and violin in D major with a slow tempo of around 77 BPM, a 4/4 time signature, and a rich chord progression; the melody includes high notes up to G6 and the mood is emotional and possibly related to love. The recording quality is described as low, featuring ambient noise.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.5212185382843018,
+      "clap_text_generated": 0.6042332649230957,
+      "clap_generated_target": 0.49132949113845825,
+      "melody_accuracy": 0.1938239960942268,
+      "audiobox_aesthetics": {
+        "CE": 7.28290319442749,
+        "CU": 7.730144023895264,
+        "PC": 3.6202356815338135,
+        "PQ": 8.00293254852295
+      }
+    },
+    {
+      "id": "t07",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t07.wav",
+      "caption": "A classical piece featuring piano and violin in D major with a slow tempo of around 77 BPM, a 4/4 time signature, and a rich chord progression; the melody includes high notes up to G6 and the mood is emotional and possibly related to love. The recording quality is described as low, featuring ambient noise.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5525916814804077,
+      "clap_text_generated": 0.6985985636711121,
+      "clap_generated_target": 0.7064790725708008,
+      "melody_accuracy": 0.18613450506529963,
+      "audiobox_aesthetics": {
+        "CE": 7.676510810852051,
+        "CU": 8.040389060974121,
+        "PC": 4.548582553863525,
+        "PQ": 8.15341567993164
+      }
+    },
+    {
+      "id": "t07",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t07.wav",
+      "caption": "A classical piece featuring piano and violin in D major with a slow tempo of around 77 BPM, a 4/4 time signature, and a rich chord progression; the melody includes high notes up to G6 and the mood is emotional and possibly related to love. The recording quality is described as low, featuring ambient noise.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5488264560699463,
+      "clap_text_generated": 0.6654201745986938,
+      "clap_generated_target": 0.779692530632019,
+      "melody_accuracy": 0.18552422799951176,
+      "audiobox_aesthetics": {
+        "CE": 7.6850714683532715,
+        "CU": 8.06296443939209,
+        "PC": 4.3013434410095215,
+        "PQ": 8.159284591674805
+      }
+    },
+    {
+      "id": "t08",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "generated_path": "generated_audio/stable_text/t08.wav",
+      "caption": "In the audio, there's a beautiful instrumental piece with a flute playing a soothing melody over a backing track featuring piano and synthesizers. The genre is ambient, classical, and soundtrack, with a calm mood. The instruments include a piano, synthesizer, and flute in C major key with a time signature of 4/4 and a tempo of 162.2 bpm.",
+      "variant": "stable_text",
+      "mode": "text",
+      "condition_source": "text only",
+      "clap_target_text": 0.5330623984336853,
+      "clap_text_generated": 0.4691082239151001,
+      "clap_generated_target": 0.44709664583206177,
+      "melody_accuracy": 0.15549859636274868,
+      "audiobox_aesthetics": {
+        "CE": 6.899947643280029,
+        "CU": 7.407342910766602,
+        "PC": 3.385220527648926,
+        "PQ": 7.653861045837402
+      }
+    },
+    {
+      "id": "t08",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg1/t08.wav",
+      "caption": "In the audio, there's a beautiful instrumental piece with a flute playing a soothing melody over a backing track featuring piano and synthesizers. The genre is ambient, classical, and soundtrack, with a calm mood. The instruments include a piano, synthesizer, and flute in C major key with a time signature of 4/4 and a tempo of 162.2 bpm.",
+      "variant": "muse_melody_cfg1",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.5041945576667786,
+      "clap_text_generated": 0.5489397048950195,
+      "clap_generated_target": 0.6766999959945679,
+      "melody_accuracy": 0.2052972049310387,
+      "audiobox_aesthetics": {
+        "CE": 7.749471664428711,
+        "CU": 8.077737808227539,
+        "PC": 4.396422863006592,
+        "PQ": 8.121333122253418
+      }
+    },
+    {
+      "id": "t08",
+      "target_path": "home/fundwotsai/Deep_MIR_hw2/target_music_list_60s/竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
+      "generated_path": "generated_audio/muse_melody_cfg15/t08.wav",
+      "caption": "In the audio, there's a beautiful instrumental piece with a flute playing a soothing melody over a backing track featuring piano and synthesizers. The genre is ambient, classical, and soundtrack, with a calm mood. The instruments include a piano, synthesizer, and flute in C major key with a time signature of 4/4 and a tempo of 162.2 bpm.",
+      "variant": "muse_melody_cfg15",
+      "mode": "melody",
+      "condition_source": "target CQT melody extracted by MuseControlLite",
+      "clap_target_text": 0.47264644503593445,
+      "clap_text_generated": 0.49333655834198,
+      "clap_generated_target": 0.7652844786643982,
+      "melody_accuracy": 0.20334431832051753,
+      "audiobox_aesthetics": {
+        "CE": 7.703736305236816,
+        "CU": 8.122278213500977,
+        "PC": 4.225608825683594,
+        "PQ": 8.23485279083252
+      }
+    }
+  ]
+}
