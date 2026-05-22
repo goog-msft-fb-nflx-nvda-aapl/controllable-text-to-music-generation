@@ -1,0 +1,6 @@
+control_melody_inference_detail.py
+__pycache__
+checkpoints
+generated_audio_12_14
+config_inference.py
+*.wav

@@ -1,9 +1,15 @@
 Deep_MIR_hw2.zip
 home/
-third_party/
 logs/
 generated_audio/
 __pycache__/
 *.pyc
 *.pt
 *.safetensors
+third_party/Text-to-Music_control_family/melody_condition_audio/
+third_party/Text-to-Music_control_family/ALL_condition_wo_SDD.json
+third_party/MuseControlLite/ALL_condition_wo_SDD.json
+vendor/Text-to-Music_control_family/SDD_nosinging_full.json
+vendor/MuseControlLite/song_describer-nosinging.csv
+vendor/audiobox-aesthetics/evaluation_data/
+vendor/audiobox-aesthetics/audiomos2025_track2/

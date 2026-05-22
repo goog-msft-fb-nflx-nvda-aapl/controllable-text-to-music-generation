@@ -1,0 +1,17 @@
+checkpoints
+wandb
+__pycache__
+generated_audio
+not_using
+*.json
+*.csv
+*.mp3
+*.wav
+*.txt
+!requirements.txt
+testing
+SDD_nosinging
+diffusers
+inference_examples
+stable-audio-tools
+melody_condition_audio _demo

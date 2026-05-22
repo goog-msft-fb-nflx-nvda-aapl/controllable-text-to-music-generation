@@ -17,7 +17,8 @@ import numpy as np
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "home" / "fundwotsai" / "Deep_MIR_hw2"
 TARGETS, REFS = DATA / "target_music_list_60s", DATA / "referecne_music_list_60s"
-FAMILY = ROOT / "third_party" / "Text-to-Music_control_family"
+SOURCE_ROOT = ROOT / "vendor" if (ROOT / "vendor").exists() else ROOT / "third_party"
+FAMILY = SOURCE_ROOT / "Text-to-Music_control_family"
 RESULTS, AUDIO = ROOT / "results", ROOT / "generated_audio"
 MANIFEST, CAPTIONS, RETRIEVAL = RESULTS / "manifest.json", RESULTS / "captions.json", RESULTS / "retrieval.json"
 GENERATIONS, METRICS, REPORT = RESULTS / "generation.json", RESULTS / "metrics.json", ROOT / "report.html"

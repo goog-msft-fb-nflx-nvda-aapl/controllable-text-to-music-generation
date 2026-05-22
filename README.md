@@ -23,8 +23,8 @@ The server has no sudo audio tooling, so this workspace uses conda:
 cd /home/jtan/controllable_text_to_music_generation
 /home/jtan/miniconda3/bin/conda create -n cttm -y python=3.11 pip "ffmpeg>=4,<8" -c conda-forge
 /home/jtan/miniconda3/envs/cttm/bin/python -m pip install \
-  -r third_party/Text-to-Music_control_family/requirements.txt \
-  -e third_party/audiobox-aesthetics
+  -r vendor/Text-to-Music_control_family/requirements.txt \
+  -e vendor/audiobox-aesthetics
 /home/jtan/miniconda3/envs/cttm/bin/python -m pip install --force-reinstall \
   torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
 /home/jtan/miniconda3/envs/cttm/bin/python -m pip install --force-reinstall \
@@ -43,6 +43,21 @@ its model access terms, log in before generation:
 ```bash
 /home/jtan/miniconda3/envs/cttm/bin/huggingface-cli login
 ```
+
+## Vendored Source
+
+The repository backs up the external code used by the pipeline under
+`vendor/`, with the exact upstream commits recorded in
+[`THIRD_PARTY_SOURCES.md`](THIRD_PARTY_SOURCES.md). The code snapshots are
+tracked in git so the project stays reproducible without re-cloning the source
+repositories.
+
+Large non-code payloads are intentionally excluded from git:
+
+- model/runtime caches
+- generated audio
+- dataset files under `home/`
+- the large training data blobs inside the remote `third_party/` workspace
 
 ## Remote Commands
 
